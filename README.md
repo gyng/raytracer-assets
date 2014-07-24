@@ -1,3 +1,5 @@
 # raytracer-assets
 
-To convert storm skybox (Jockum Skoglund) into PPM run `ruby ./textures/skyboxes/storm/to_ppm.rb`. Requires ImageMagick.
+To convert all skyboxes into PPM run `ruby ./all_to_ppm.rb` in directory `./textures/skyboxes/`. Requires ImageMagick.
+
+Storm, Miramar skyboxes by Jockum Skoglund.
