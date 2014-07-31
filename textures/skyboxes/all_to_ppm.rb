@@ -1,6 +1,6 @@
 puts 'Converting skyboxes to PPM...'
 
-['miramar_y_up', 'miramar_y_up_test', 'storm_y_up', 'storm_z_up', 'test'].each { |dir|
+['miramar_y_up', 'storm_y_up', 'interstellar_y_up', 'city_y_up'].each { |dir|
   puts dir
 
   ext = 'png'
