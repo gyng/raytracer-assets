@@ -2,7 +2,7 @@
 
 To convert all skyboxes into PPM run `ruby ./all_to_ppm.rb` in directory `./textures/skyboxes/`. Requires ImageMagick.
 
-* Storm, Miramar, Interstellar skyboxes by Jockum Skoglund (License in directories)
+* Grimm Night, Storm, Miramar, Interstellar skyboxes by Jockum Skoglund (License in directories)
 * City skybox by Hazel Whorley (CC BY-NC 3.0)
 * Tachikoma model by Skimbal (CC BY 3.0), GitS &copy; Masamune Shirow
 * [Sponza model (Crytek version)](http://www.crytek.com/cryengine/cryengine3/downloads), public domain
